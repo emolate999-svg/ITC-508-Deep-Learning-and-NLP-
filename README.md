@@ -54,7 +54,7 @@ Each team member performed:
 * Manual hyperparameter experimentation (Exercise F2)
 * Automated parameter search using **GridSearch or RandomSearch** (Exercise F3)
 
-All performance changes (Accuracy / F1-Score) from every configuration are tracked in the Excel log files.
+All performance changes (ROUGUE METRICS) from every configuration are tracked in the Excel log files.
 
 
 
